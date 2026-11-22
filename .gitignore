@@ -15,4 +15,4 @@ venv/
 .DS_Store
 
 # Logs
-*.log
+*.logvenv_py39_backup/
