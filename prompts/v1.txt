@@ -1,0 +1,7 @@
+
+Convert the following natural language question into
+an SQL query.
+
+Question: {question}
+
+Return only the SQL query.
